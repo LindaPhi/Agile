@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LindaPhi/Agile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Glossaire Agile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##  **SCRUM**
+Permet de produire la plus grande valeur métier dans la durée la plus courte. Le client est très souvent sollicité.
 
-### Markdown
+## **Product Backlog**
+Le Product Backlog, est comme un guide de déroulement du projet, il faut déterminer les différentes fonctionnalités du projet (les user stories), les participants qui aideront à la réalisation du projet, quels seront leur rôles et l'ordre d'importance des différentes fonctionnalités.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **Release**
+Version du produit qui est livrable, composé de sprints.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### **User Story**
+C'est une fonctionnalité qui est demandée pour répondre à un besoin utilisateur.
+```
+Qui : En tant que (Pour qui)
+Quoi : Pour (fonctionnalité)
+Comment : afin de(objectif)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### **Sprint**
+Période durant laquelle se réalise les différentes tâches qui vont permettre de livrer un incrément de fonctionnalités finis.
 
-### Jekyll Themes
+### **Incrément**
+Ensemble d' items.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LindaPhi/Agile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### **Sprint Backlog**
+Prioriser les user stories.
 
-### Support or Contact
+### **Sprint Planning**
+Définit un objectif de sprint, sélectionner les user stories, les décomposer et estimer leur temps de réalisation.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **Sprint Review**
+Réunion durant un sprint qui fait le point sur les user stories terminés.
+
+##  **Equipe SCRUM**:
+* Product owner : il représente le client, c'est par lui que passe le choix, la validation des releases.
+
+* Equipe de Développement : Fournit les incréments finis(potentiellement livrables) à chaque fin de sprint
+
+* Srum Master : il est chargé de la bonne pratique de la méthode SCRUM, il est le leader/serviteur pour le Product Owner et l'équipe de développement.
+
+
+### **Planning Poker**
+C'est une estimation qui se sert de l'expérience de chaque acteurs du développement en terme de temps de réalisation.
+
+### **Daily Meeting**
+Réunion hebdomadaire de l'équipe de réalisation ; chaque membre de cette équipe va prendre la parole et énoncer 3 points qui décrit et détermine leur travail, leur avancement durant le projet en question. 
+Les 3 questions sont : 
+Ce qu’il a fait hier?
+Ce qu’il compte faire aujourd’hui ?
+Quels sont ou vont être les obstacles rencontrés?
+
+### **Rétrospective**
+Elle sert a définir des axes d'amélioration, en faisant le point sur ce qui a fonctionné, pas ou peu:
+1-On regroupe et recueil les données
+2-Identification des problèmes et solutions(axe d'amélioration)
+3-Plan d'actions :exemple de l'objectif  **S**pécifique **M**esurable **A**cceptable **R**éaliste **T**emporel
+4-Conclusion: on fait le bilan de cette rétrospective 
+
+### **Valeur métier**
+Degrés d'importance d'une user stories.
+
+### **Vélocité**
+Capacité de production (de tâches) durant un sprint.
+
+### **Story point**
+Unité de mesure pour la vélocité.
+
+![](https://www.lucidchart.com/documents/edit/d382eaaa-a8df-40a0-bf6e-79407d4937ca/0_0)
+
